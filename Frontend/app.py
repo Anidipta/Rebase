@@ -6,7 +6,6 @@ Project name: Detection of person talking with mobile in no mobile zone
 Team name: Forger House
 Team members: Anidipta Pal
               Ankana Datta
-              Anjishnu Mukherjee
               Ananyo Dasgupta  
 -------------------------------------------------
 """
